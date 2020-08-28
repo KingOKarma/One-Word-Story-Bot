@@ -1,0 +1,19 @@
+{
+  "name": "one-word-story-bot",
+  "version": "1.0.0",
+  "description": "A simple discord bot coded in discord.js to make a one-word-story channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingOKarma/One-Word-Story-Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingOKarma/One-Word-Story-Bot/issues"
+  },
+  "homepage": "https://github.com/KingOKarma/One-Word-Story-Bot#readme"
+}

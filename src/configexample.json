@@ -1,0 +1,6 @@
+{
+    "token": "BOT_TOKEN",
+    "guildID": "YOUR_SERVER_ID",
+    "channelID": "ONE_WORD_STORY_CHANNEL_ID",
+    "staffRoleID": "STAFF_ROLE_ID"
+}

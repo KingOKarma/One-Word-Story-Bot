@@ -6,7 +6,7 @@ let token = config.token
 let guildID = config.guildID
 let channelID = config.channelID
 let staffRoleID = config.staffRoleID
-let words = config.words
+let words = [config.words]
 
 bot.on("ready", () => {
     console.log(`Logged in as ${bot.user.tag}!`);
